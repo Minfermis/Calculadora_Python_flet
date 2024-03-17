@@ -36,8 +36,8 @@
 * Biblioteca de interface gráfica: ***Flet***
 ### Recursos Adicionais:
 
-* Documentação do Flet: https://flet.dev/\
-* Tutoriais do Flet: https://flet.dev/docs/tutorials/\
+* Documentação do Flet: [https://flet.dev/\](https://flet.dev/docs/)]
+
 
 ### Observações:
 
